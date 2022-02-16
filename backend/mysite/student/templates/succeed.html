@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-hans">
+<head>
+    <meta charset="UTF-8">
+    <title>提交成功啦！</title>
+    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/img/20210715233345.png">
+    <style>
+        table, table th, td {
+            border: 0px solid #ccc;
+            font-size: x-large;
+        }
+
+        table tr td {
+            padding: 5px 50px;
+        }
+    </style>
+</head>
+<body>
+<h1 align="center">恭喜你，提交成功啦！</h1>
+<hr>
+<div align="center">
+    <table>
+        <tr>
+            <th>姓名</th>
+            <th>状态</th>
+        </tr>
+        {% for student in students %}
+
+            <tr>
+                <td>{{ student.name }}</td>
+                <td>{{ student.get_status_display }}</td>
+            </tr>
+
+            {#        <h2>{{ student.name }}&emsp;&emsp;&emsp;&emsp;{{ student.get_status_display }}</h2>#}
+
+        {% endfor %}
+    </table>
+</div>
+</body>
+</html>

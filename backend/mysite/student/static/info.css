@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    background-image: linear-gradient(to right, #fbc2eb, #a6c1ee);
+}
+
+html {
+    height: 100%;
+}
+
+.base_container {
+    height: 100%;
+}
+
+.form-header {
+    margin: 0 auto;
+    padding: 0 0 25px 0;
+    font-size: 25px;
+    text-align: center;
+}
+
+.form_wrapper {
+    background-color: #fff;
+    width: 550px;
+    border-radius: 15px;
+    padding: 50px 50px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    margin-top: 15px;
+    background-image: linear-gradient(to right, #a6c1ee, #fbc2eb);
+    color: #fff;
+}
+
+#id_byword {
+    height: 66px;
+}
