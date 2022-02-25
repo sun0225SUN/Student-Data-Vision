@@ -1,5 +1,5 @@
 <div align="center">
-<img width="200px" src="./assets/logo.png"/>
+<img width="200px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/logo.png"/>
 
 </div>
 
