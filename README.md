@@ -5,7 +5,7 @@
 
 <h1 align="center">Student-Data-Vision</h1>
 
-<p align="center">✨ 基于 Django + Vue 编写的的学生信息可视化项目 ✨</p>
+<p align="center">✨ 基于 Django + Vue 编写的的学生信息管理及可视化分析项目 ✨</p>
 
 <p align="center">
 <a href="https://github.com/sun0225SUN/Student-Data-Vision/blob/main/LICENSE">
