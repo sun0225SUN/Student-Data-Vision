@@ -28,8 +28,8 @@
 
 &emsp;&emsp;演示视频——>[点我访问](https://www.bilibili.com/video/BV15L4y1E7xY)
 <div align="center">
-<img width="500px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/01.jpg"/>
-<img  width="500px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/02.jpg"/>
+<img width="800px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/01.jpg"/>
+<img  width="800px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/02.jpg"/>
 </div>
 
 
