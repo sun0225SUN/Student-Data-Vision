@@ -27,8 +27,18 @@
 # 项目演示
 
 &emsp;&emsp;演示视频——>[点我访问](https://www.bilibili.com/video/BV15L4y1E7xY)
+<div align="center">
+<img width="500px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/01.jpg"/>
+<img  width="500px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/Student-Data-Vision/assets/02.jpg"/>
+</div>
+
 
 # 如何使用
+
+## 后端(Django)
+
+## 前端(Vue)
+
 
 # 更新日志
 
